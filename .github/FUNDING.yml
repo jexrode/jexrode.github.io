@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+	<head>
+ 		<meta charset="utf-8">
+ 		<link rel="stylesheet" type="text/css" href="style.css"/>
+ 		<title> Skate </title>
+ 	<head/>
+	
+	<body>
+		<header><!--la tete de mon site-->
+			<h1 style="color: red;">Le skate</h1>
+			
+				<p>
+					je m'appelle <strong>mathieu</strong> et j'adore le skate
+					<a 
+						href="https://www.youtube.com/watch?v=vd5HnvKA4Zc" title="clique ta mère fdp !" target="_blank"> clique ici 
+					</a>
+						<br> j'espère que tu l'as aimer.
+				 </p>
+		</header>
+			<nav><!--représente la partie ou l'on peut navigué sur le site-->
+				<p>
+					Aller directement a mes année qui vous interesses :<br />
+					<a href="#premiere" class="pop">2018-2019</a><br/>
+					<a href="#2019-2020" class="pop">2019-2020</a><br/>
+					<a href="#merde" class="pop">2020-2021</a><br/>
+				</p>
+			</nav>
+
+			<section><!--représente une section de la page-->
+				
+				<h3>
+					La petite histoire sur le skateboard.
+				</h3>
+			
+
+				<article><!--représente du texte sur la page-->
+					 
+
+						<p class="lol">
+						
+							Aux débuts des années 50, le surf est à la source du skateboard. Des surfeurs ont 	eu l’idée de transférer le feeling de rider des vagues dans les rues pour défier la météo quand le swell n’est pas au top. Avec raison, on appelait ces mecs des « surfeurs d’asphaltes ». Le skateboard se développe sur deux spots emblématiques : la Californie et Hawaii. Ils utilisent alors des petites planches de surfs et des roues faites de métal sans roulement. A la fin des années 50, le skate connait un premier pic. Dans cette période d’après-Guerre, l’économie américaine connait un boom et cela affecte aussi l’économie. En 1959, Roller Derby sort le premier skate avec des innovations techniques. Ainsi, les paramètres pour rouler sont améliorés. Pour cette raison, les skateurs peuvent développer de nouveaux mouvements et tricks.
+						</p>
+					<p>
+						Entre les années 1959 et 1965, le skateboard devient de plus en plus populaire aux Etats-Unis. Particulièrement dans les états de la côte est et ouest. A cause du développement industriel, le statut du skate évolue du jouet à équipement sportif. En 1962, le surf shop « Val-Surf » à Hollywood vend les premiers skateboards auto-produits. Ces planches offrent un shape de board très surf et des trucks de roller, et sont vendus en set complet. La même année, la société Patterson Forbes développe les premières planches produites industriellement avec des trucks plus développés. En 1963, l’éditeur du « Surf Guide Magazine » Larry Stevenson sort la première pub de skate dans un magazine. L’industrie du vêtement se spécialise aussi de plus en plus dans le skate. Vans, une des marques de skate les plus célèbres est créé en 1966. Depuis ce jour, Vans supporte les skateurs du monde entier. Des compagnies spécialisées comme Vans, Etnies, Converse et DC Shoes ont également développé et fabriqué du footwear et du streetwear dédié au skate.<br><br>
+					
+						Un autre moment marquant eu lieu en 1963 avec le premier contest de skate à Hermosa Beach, en Californie. Faire du skate ce n’est plus juste rouler. Les skateurs montrent leur talent sur différentes disciplines comme le slalom ou le freestyle, et les compagnies commencent à sponsoriser un team de riders. Alors que la popularité du skate se développent, « The Quaterly Skateboarder », le premier magazine de skate est publié en 1964.<br>
+						Une autre grande étape est le nouveau développement dans les formats de planche. Larry Stevensson invente alors le « kicktail », ce qui offre vite de nouvelles possibilités de ride en skate.<br><br>
+
+						Au milieu des années 70, le skateboard arrive en Allemagne. Les soldats américains ont ramené la tendance avec eux et en 1976, Munich devient le centre du skateboard allemand. A Munich Neuperlach, le premier skatepark est construit, les premiers magazines arrivent peu après et en 1978 les premiers championnats de skate allemands se tiennent à Munich.<br>
+
+						Tous les différents riders, avec chacun leur style, améliorent les tricks. Le matériel de skate se développe de plus en plus : les shapes changent, les planches deviennent plus larges, avec plus de concave et ils possèdent désormais un tail et un nose.<br>
+
+						Et puis en 1978, Alan Gelfand invente une figure qui va complétement révolutionner le skate : le Ollie, qui figure parmi les plus grands tricks jamais inventé et qui va complétement révolutionner le skateboard. On est là à la naissance du street skateboarding !<br><br>
+					
+						En 1981, le magazine “Thrasher” est créé, et depuis, ce magazine représente le street skateboarding, la scène core, le punk rock et le slogan lifestyle « Skate And Destroy ». En 1983, un autre magazine bien connu, appelé “Transworld Skateboarding Magazine” est lancé. A côté de ces magazines, d’autres sont créés et beaucoup de skateshops ouvrent également. Avec tout ça, la popularité du skate devient de plus en plus importante. On commence à retrouver tous les nouveaux tricks et moves jamais vus avant dans les premières vidéos de skate en VHS. La vidéographie devient de plus en plus importante au sein du milieu.<br><br>
+					
+						Tittus Dittman fut un personnage névralgique dans le développement du skateboard en Allemagne. Il importe du matériel depuis les Etats-Unis et organise des contests et différents événements de skate. Les « Munster Monster Mastership » deviennent une des compétitions internationales de skate les plus importantes au monde. Avec tout ça, le skate devient vraiment populaire en Allemagne.<br>
+					
+						A partir du milieu des années 80, il devient possible pour les skateurs pro de bien gagner leur vie, et le skate explose aux Etats-Unis. A la fin des annnées 80, des compagnies comme Powell Peralta, Santa Cruz et Vision> dominent le marché international. La mode se fait principalement à travers les chaussures. Vans, Converse et Vision deviennent des étendards de la scène du skate.<br><br>
+					
+						Le skateboard est désormais complétement installé aux Etats-Unis et en Allemagne, et le skate en vert est remplacé par le street. Le nombre de skateurs pro augmente de manière significative et ces pros deviennent de plus en plus connus, à la manière des stars du baseball ou du football.<br>
+					
+						Au début des années 90, le skate retombe dans une phase de baisse d’activité due à la montée d’autres sports plus à la mode. Le skate revient alors à ses racines. Mais avec la digitalisation, le skate garde une présence publique. A partir du milieu des années 90, le skate moderne expérience une nouvelle phase de hausse d’activité, qui continue encore aujourd’hui. D’énormes événements comme les X-Games sont lancés et passent à la télévision. Avec tous les magazines présents, tous les événements, vidéos et bien entendu le développement d’internet, le skateboard devient établi à l’échelle mondiale.<br>
+						Grace à des marques comme Au shop Chocolate skateboards à skatedeluxe, Au shop Girl Skateboards à skatedeluxe et Au shop Flip Skateboards à skatedeluxe, le matériel de skate se développe et de plus en plus de skateurs peuvent se procurer du matériel de skate top-qualité dans toutes les grandes villes.<br><br>
+					
+						D’autres indicateurs sont les gros événements mondiaux comme la « Street League ». La « Street League Skateboarding » est une série de contests pour les pro skateurs internationaux. On peut y voir la crème des street skateurs comme Nyjah Huston, Eric Koston, Paul Rodriguez, Andrew Reynolds, Ryan Sheckler or Torey Pudwill. Avec des prix de 200.000 Dollars US ou plus pour les gagnants, et plus de 10.000 visiteurs à chaque étape de la « Street League », le skateboard est désormais un sport professionnel.
+					</p>
+				</article>
+			</section>
+
+		<section>
+				<h2 
+					id="premiere">Ma <em>première</em> année 2018-2019
+				</h2>
+			
+
+			<ol>
+
+				<article>
+					<li>Janvier</li>
+						<p>
+							voici mon skate:<br/>
+						</p>
+						<aside>
+							<img src="image/skate.jpg" alt="photo de mon skate" class="flottant" />
+						</aside>
+
+						<p class="skote">
+							Le skateboard, ou planche à roulettes en français, est un moyen de déplacement composé d’une planche sous laquelle sont fixés deux essieux (les trucks) qui maintiennent chacun deux roues équipées de roulements à billes. Sa pratique se faisant le plus souvent en milieu urbain ou dans des espaces dédiés comme les skate-parks, les « riders » réalisent des figures appelées tricks et se mettent en scène artistiquement notamment pour la photographie.<br>
+							Considéré à la fois comme un sport et un art, le skateboard est devenu un moyen d’expression très à la mode chez les jeunes. En tant qu’art, le skateboard se rapprocherait de la danse par sa beauté dans les gestes, les mouvements et sa recherche d’un idéal esthétique. Lors des compétitions, la performance et la technique sont mises en avant. Cependant, le système d’évaluation des skateurs montre l’ambivalence de la discipline. En effet, à l’issue de son « run » (prestation), il sera également jugé sur sa créativité et son style. Limité en temps, un « run » peut être comparé à un programme de patinage artistique, avec toutefois des règles moins strictes et l’absence de dichotomie entre programme libre et programme imposé.<br><br>
+							En France, le skateboard est régit par la Fédération Française de Roller & Skateboard. Enfin, dans sa forme « longskate« , il est utilisé pour les courses de vitesse appelées « downhill .
+						</p>
+				</article>
+
+				<article>
+					<li class="fev">fevrier</li>
+				
+						
+						<p class="oit">
+							Une photo de moi avec mon skate:<br/>
+						</p>
+							
+							<aside>
+								<a
+								 	href="image/moii.jpg"><img src="image/moi.jpg" alt="photo de moi et une skate" class="moimeme" />
+								 </a>
+							</aside>
+
+						<p>
+							je suis venu au monde dans une sombre nuit du Février 1989. On m’a dit que s’était la nuit du 28 Février; mais je pense que c’était la nuit du 29 et que mes parents n’ont pas voulu me le dire; sinon j’aurai eu un anniverssaire tout les 4 ans. Enfin de compte ce n’est qu’un jour et qu’imorte un jour dans les milliers d’un homme; surtout si c’est le premier.
+						</p>
+
+						<div class="tretre"/>
+							J’ai été élevé comme tout les enfants, du moins c’est ce que je pense.
+							Je menai une vie normale, d’une stabilité inquiétante jusqu’au jour où j’ai vu un PC. Dés l’instant, ma vie c’est bouleversé : un PC c’est pas difficile à comprendre, et il ne trouve pas difficile la tache de me comprendre. Ce qui est le plus important c’est qu’il fait tout ce que je lui dit. Je pense que c’est ça ce qui m’a attiré dans les PCs. En effet, quand on est adolescents on aime ce mesurer à nos parents qui nous disent, relativement, tout ce que nous devont faire. Moi j’étais le pére de mon PC et j’aimai ça. Mon affection envers lui grandissait jour aprés jour; et jour aprés jour je voulais apprendre plus de lui et lui faire apprendre plus de moi.
+							Ce fut un pur hasard et ça me fait rire maintenant : la premier langage de programmation que j’ai pratiqué est le langage C, avant lui j’ai appris le pascal mais je ne l’ai pas pratiqué. Langage C, « je sais », quel hasard ils ont la même sonorité.
+							C’est à travers le langage C que j’ai appris comment mieux communiquer avec mon PC et c’est tout ce que je voulais. Mais je ne me 	suis pas arrêter.
+							Mon PC ne communiquait pas avec moi à travers la console il me dessinait ses messages dans des boites avec du texte et des couleurs. J’ai voulu savoir comment il faisait et j’ai trouvé ce qui est mieux : OpenGL. En dessinant mon premier triangle avec 	des couleurs dégradés je me sentais comme Dieu, ce qui est toute à fait idiot et fou mais on ne peut pas reprocher la folie des grandeurs à un adolescent.	
+						</div>
+				</article>
+
+				<article>				
+					<li>mars</li>
+						<aside>	
+							<figure>
+								<img src="image/meliodas.jpg" alt="meliodas"/>
+								<figcaption>
+									meliodas en mode démons
+								</figcaption>
+							</figure>
+						</aside>
+				</article>
+
+				<article>
+					<li>avril</li>
+						<aside>
+							<figure>
+								<img src="image/google.png" alt="logo google"/>
+								<figcaption>sponsore google</figcaption> 
+							</figure>
+						</aside>
+				</article>
+				
+					<li>mai</li>
+					<li>juin</li>
+					<li>juillet</li>
+					<li>aout</li>
+					<li>septembre</li>
+					<li>octobre</li>
+					<li>novembre</li>
+					<li>decembre</li>
+
+				</ol>
+		</section>
+
+		<section>
+			<h2 
+				id="2019-2020"> Ma <em>deuxième</em> année(2019-2020)
+			</h2>
+				
+				<article>      
+					 <p id="loir"><!--juste ce paragraphe-->
+					        	beaucoup de text</br>
+					        	beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+					        	beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+					        	beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+							    beaucoup de text</br>
+					</p>
+				</article>
+		</section>
+
+		<section>
+			<h2
+				 id="merde"> Ma <em>troisième</em> année(2020-2021)
+			</h2>
+				<article>        
+				    	<div class="pink"> 
+				        	beaucoup de text</br>
+				        	beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+				        	beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+				        	beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						    beaucoup de text</br>
+						</div>
+				</article>
+		</section>
+
+		<footer>
+					<p>
+						<a href="image/meliodas.jpg" class="bebe">Télécharger le fichier</a>
+					</p>
+					<p>
+						<a href="mailto:fushf@jufdh.com" class="bebe">si tu veux me contacter c'est ici!</a>
+					</p>
+ 
+ 		</footer>
+	</body>
+</html>
