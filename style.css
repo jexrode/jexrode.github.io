@@ -1,0 +1,242 @@
+/*color*/
+/*si on veut que sa sois gras "font-weight: bold;"*/
+
+/*année joint*/		
+	p,.tretre,aside,.pop
+		{
+			color:#F0F0F0;
+		}
+
+.lol /*p1 bleu*/
+{
+	color: #85DCF3 ;
+}
+
+	h2 em /*mot"premier" dans h2*/
+		{	
+			color:#159082;
+		}
+
+li/*petite section li*/
+	{
+		color: #F1F3B4;
+	}
+
+
+#loir /*texte violet*/
+	{
+		color: #CC7EF7;
+	}
+
+	.pink /*texte rose*/
+		{
+			color: pink;
+		}
+
+a[title],.bebe/*liens*/
+	{
+		color:red;
+	}
+	
+	
+	
+
+
+
+/*couleur+deco du h3*/
+h3
+{
+	text-decoration: underline;
+	color:#F3CD41;
+}
+
+
+
+
+
+
+
+/*police,text*/
+h1,h2/*centrement des titres*/
+{
+	text-align: center;
+}
+
+p/*ecriture des paragraphe*/
+{
+	font-family: arial;
+}
+
+h1+p,h2,h3/*ecriture spéciale*/
+{
+	font-family:open_sanslight_italic;
+}
+
+@font-face {
+    font-family: 'open_sanslight_italic';
+    src: url('police/OpenSans-LightItalic-webfont.eot');
+    src: url('police/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('police/OpenSans-LightItalic-webfont.woff2') format('woff2'),
+         url('police/OpenSans-LightItalic-webfont.woff') format('woff'),
+         url('police/OpenSans-LightItalic-webfont.ttf') format('truetype'),
+         url('police/OpenSans-LightItalic-webfont.svg#open_sanslight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.fev + p,.tretre,/*text qui prends la largeur a coté d'une image*/
+{
+	text-align: justify;/*prends toute la largeur de la page*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*background*/
+
+body
+{ 
+	background: url("image/izi.png") fixed no-repeat 1300px 10px, url("image/low.png") 
+
+}
+
+
+
+
+
+
+
+
+/*taille*/
+
+p,div
+{
+	font-size: 1.25em;
+}
+
+h1
+{
+	font-size: 4em;
+}
+	
+h2
+{
+	font-size: 2em;
+}
+li
+{
+	font-size: 1.45em;
+}
+
+
+
+
+
+/*image+text*/
+
+.flottant/*image skate 3*/
+{
+	float: left; 
+}
+	
+
+.moimeme/*image de moi avec le skate*/
+{
+	float: right;
+}
+
+	.tretre/*texte en dessous de m'image de moi*/
+	{
+		clear: right;
+	}
+
+
+
+
+
+/*border,ombre*/
+
+h1/*bordure h1*/
+{
+	border: 3px rgb(255, 118, 118) outset;/*solid,dotted,dashed,double,groove;ridge;inset.*/
+	border-radius: 50px; /*joue en ajt 4 valeurs ou entre 2 valeurs avec (/)*/
+	text-shadow: 2px 2px 4px #ffffff;
+	width:300px;/*largeur*/
+	height;/*hauteur*/
+	margin:auto;/*faire center la balise*/
+	/*margin:2px 2px 2px 2px; met de la largeur ensuivant l'guille d'une montre*/
+}
+
+h2/*bordure h2 */
+{
+	border: 3px #ff0000 solid;
+	box-shadow:1px 3px 5px #FF8585;/*ajt "inset"pour un effet enfoncé*/
+	width:500px;
+	margin:auto;/*pour la marge exterieur*/
+	/padding: 5px 5px 5px 5px ;/*marge interieur*/
+}
+
+
+.skote
+{
+	border: 3px black solid;
+	width:800px;
+	height: 300px;
+	overflow: scroll;
+	margin-left: 400px;
+	padding: 5px 5px 5px 5px ;
+}
+
+
+
+
+
+
+
+
+/*changement*/
+
+a:hover/*"active"pour qu'il est une couleur seulement quand l'on clique*/
+{
+	color:#6EF900;
+}
+
+/*a:visited
+	{
+		color:black;
+	}
+	pour changer la couleur une fois le lien deja visité
+*/
+
+
+
+
+
+.pop:hover/*petit racourcis*/
+{
+	color:#FFC655;
+}
+
+/*p:hover
+{
+	boder-left: 2px solid purple;
+}
+pour avoir une bodure sur un text quand l'on le pointe 
+*/
